@@ -1,0 +1,2 @@
+isin_code,benchmark_code,spread_bps,fixing_date,reference_rate,coupon_rate_at_issue,reset_frequency,fixing_lag_bdays,confidence_status,source_type,source_ref,notes
+REPLACE_WITH_ISIN,CD91,,20260102,3.2500,3.8400,3M,0,UNVERIFIED,MANUAL,,샘플 행은 실제 자료로 교체
